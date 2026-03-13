@@ -1,3 +1,0 @@
-python -m PyInstaller --clean --onefile projeto001.py
-python -m Pyinstaller --noconsole --onefile seu_script.py
-python -m Pyinstaller --windowed --onefile seu_script.py
